@@ -9,6 +9,8 @@
   "engines": {
     "node": "~v0.4.12"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node-uuid": "1.4.x",
+  },
   "devDependencies": {}
 }
