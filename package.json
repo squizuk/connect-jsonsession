@@ -2,9 +2,9 @@
   "author": "James Hurst <jhurst@squiz.co.uk>",
   "name": "connect-jsonsession",
   "description": "A RESTful API for storing / manipulating JSON structures against a browser session.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/pintsized/connect-jsonsession"
   },
   "engines": {
     "node": "~v0.4.12"
