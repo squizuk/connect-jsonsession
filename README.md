@@ -25,7 +25,6 @@ Then using Express routes, for example..
 
 	app.all('/*', jsonsession(), function(req, res) { 
 	    console.log(res.body);
-	    res.json(res.body);
 	});
 
 
